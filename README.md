@@ -1,4 +1,9 @@
 # About me
-tutorial
+i'm currently pusuing my btech in cse.
 <br>
-author - prince kumar
+currently learning:
+<br>
+frontend development {HTML, CSS, JAVASCRIPT}
+<br>
+
+
